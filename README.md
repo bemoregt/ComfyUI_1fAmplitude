@@ -6,6 +6,18 @@ Inspired by classic DFT analysis experiments showing that phase carries the stru
 
 ---
 
+## Screenshots
+
+![DFT Analysis Result 1](ScrShot%2011.png)
+
+![DFT Analysis Result 2](ScrShot%2013.png)
+
+![DFT Analysis Result 3](ScrShot%2014.png)
+
+![DFT Analysis Result 4](ScrShot%2015.png)
+
+---
+
 ## Nodes
 
 ### DFT: 1/f Amplitude + Original Phase
